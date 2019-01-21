@@ -1,2 +1,2 @@
 # coursera-big-data-specialization-notes
-big data specialization by university of california san diego on coursera
+my notes of big data specialization by university of california san diego on coursera
